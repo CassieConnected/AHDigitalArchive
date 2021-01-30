@@ -28,7 +28,7 @@ featured-locations-max: 3 # set number of top locations to display if auto gener
 #
 # Featured image on About page - if left blank, CB will use image featured on the home page
 # use either an objectid (from an item in this collect), a relative location of an image in this repo, or a full url to an image elsewhere
-about-featured-image: Nzima_Photographer_Liquor_Store_Lillydale_South_Africa_20140624
+about-featured-image: /objects/banner.jpg
 
 ##########
 # BROWSE PAGE
