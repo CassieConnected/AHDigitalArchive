@@ -39,11 +39,7 @@ After the description of every image, there is a statement that reads, "For addi
 <strong>For additional context, please consider: South Africa Police's Security Branch targets anti-apartheid activists; Police state; Militarized police; Police and military in Black neighborhoods; Treatment of Black people by the police; Military enforcement of white sumpremacy; Sharpeville; Soweto Uprising; Police and military seen as an occupying force in Black townships; Compulsory military service of White South African men </strong>" objectid="Firing_Teargas_Soweto_South_Africa_1977" width="25" centered=true %}
 
 
-{% include feature/button.html text="Button Link to Somewhere" link="https://collectionbuilder.github.io/" color="success" centered=true %}
-  
-- Alerts -- > `{% raw %}{% include feature/alert.html text="this is an *alert* that 'warns' a user" color="warning" align="center" %}{% endraw %}`
-
-{% include feature/alert.html text="This is an *alert* that 'warns' a user with centrally aligned text." color="warning" align="center"  %}
+{% include feature/button.html text="Browse Objects" link="https://cassieconnected.github.io/AHDigitalArchive/browse.html" color="success" centered=true %}
 
 <div class="container-box">
 <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Contact Us</button>
