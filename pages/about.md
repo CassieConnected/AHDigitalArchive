@@ -27,13 +27,11 @@ We want you to explore these digital objects and consider their history from a c
 
 Feel free to explore the archive by searching for objects by specific metadata categories, such as:
 
--subject
--date
--location
+- subject
+- date
+- location
 
-
-{% include feature/item-figure.html objectid="banner" width="25" %}
-
+## Resource Descriptions
 
 When viewing an object, please pay special attention to the description field. The descriptions have been carefully researched in order to provide a historical background and context to the object. 
 
