@@ -44,24 +44,3 @@ After the description of every image, there is a statement that reads, "For addi
 
 {% include feature/button.html text="Browse Objects" link="https://cassieconnected.github.io/AHDigitalArchive/browse.html" color="success" centered=true %}
 
-
-
-
-<form
-  action="https://formspree.io/f/mdopjokr"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="text" name="_replyto">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-
-  <!-- your other form fields go here -->
-
-  <button type="submit">Send</button>
-</form>
-
