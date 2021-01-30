@@ -41,7 +41,10 @@ After the description of every image, there is a statement that reads, "For addi
 
 {% include feature/button.html text="Browse Objects" link="https://cassieconnected.github.io/AHDigitalArchive/browse.html" color="success" centered=true %}
 
-<!-- modify this form HTML and place wherever you want your form -->
+<div class="panel panel-gitlab-purple">
+**Contact Us**
+{: .panel-heading}
+<div class="panel-body">
 
 <form
   action="https://formspree.io/f/mdopjokr"
@@ -60,3 +63,7 @@ After the description of every image, there is a statement that reads, "For addi
 
   <button type="submit">Send</button>
 </form>
+
+
+</div>
+</div>
