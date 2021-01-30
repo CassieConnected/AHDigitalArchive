@@ -39,12 +39,13 @@ After the description of every image, there is a statement that reads, "For addi
 <strong>For additional context, please consider: South Africa Police's Security Branch targets anti-apartheid activists; Police state; Militarized police; Police and military in Black neighborhoods; Treatment of Black people by the police; Military enforcement of white sumpremacy; Sharpeville; Soweto Uprising; Police and military seen as an occupying force in Black townships; Compulsory military service of White South African men </strong>" objectid="Firing_Teargas_Soweto_South_Africa_1977" width="700" centered=true %}
 
 
+
+
+
 {% include feature/button.html text="Browse Objects" link="https://cassieconnected.github.io/AHDigitalArchive/browse.html" color="success" centered=true %}
 
-<div class="panel panel-gitlab-purple">
-**Contact Us**
-{: .panel-heading}
-<div class="panel-body">
+
+
 
 <form
   action="https://formspree.io/f/mdopjokr"
@@ -64,6 +65,3 @@ After the description of every image, there is a statement that reads, "For addi
   <button type="submit">Send</button>
 </form>
 
-
-</div>
-</div>
