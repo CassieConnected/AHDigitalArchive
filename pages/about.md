@@ -6,9 +6,9 @@ permalink: /about.html
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid=banner.jpg %}
+{% include feature/jumbotron.html objectid=/objects/banner.jpg %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the *Apartheid Heritage(s)* Collection;Using the *Apartheid Heritage(s)* Digital Archive;Resource Descriptions" %}
 
 ## About the *Apartheid Heritage(s)* Collection
 
