@@ -5,11 +5,6 @@ permalink: /about.html
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-
-{% include feature/jumbotron.html %}
-
-{% include feature/nav-menu.html sections="About the Apartheid Heritage(s) Collection;Using the Apartheid Heritage(s) Digital Archive;Resource Descriptions" %}
-
 ## About the Apartheid Heritage(s) Collection
 
 This collection of digital resources is an extension of the 3D spatial historical analysis of Soweto, the historic Black township near Johannesburg, South Africa.
