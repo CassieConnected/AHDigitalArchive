@@ -10,7 +10,7 @@ permalink: /about.html
 
 {% include feature/nav-menu.html sections="About the Apartheid Heritage(s) Collection;Using the Apartheid Heritage(s) Digital Archive;Resource Descriptions" %}
 
-## About the *Apartheid Heritage(s)* Collection
+## About the Apartheid Heritage(s) Collection
 
 This collection of digital resources is an extension of the 3D spatial historical analysis of Soweto, the historic Black township near Johannesburg, South Africa.
 The items in this collection were selected to encourage researchers to reimagine spaces by asking themseleves questions such as: 
@@ -21,7 +21,7 @@ The items in this collection were selected to encourage researchers to reimagine
 
 [Click here](https://apartheidheritages.org/) to learn more about the *Apartheid Heritage(s)* project and 3D spatial historical publication.
 
-## Using the *Apartheid Heritage(s)* Digital Archive
+## Using the Apartheid Heritage(s) Digital Archive
 
 We want you to explore these digital objects and consider their history from a critical perspective. 
 
