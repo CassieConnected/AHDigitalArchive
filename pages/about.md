@@ -32,7 +32,7 @@ Feel free to explore the archive by searching for objects by specific metadata c
 -location
 
 
-{% raw %}{% include feature/item-figure.html objectid="banner" width="25" %}{% endraw %}
+{% include feature/item-figure.html objectid="banner" width="25" %}{% endraw %}
 
 
 When viewing an object, please pay special attention to the description field. The descriptions have been carefully researched in order to provide a historical background and context to the object. 
