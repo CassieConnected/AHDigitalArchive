@@ -8,7 +8,7 @@ permalink: /about.html
 
 {% include feature/jumbotron.html %}
 
-{% include feature/nav-menu.html sections="About the *Apartheid Heritage(s)* Collection;Using the *Apartheid Heritage(s)* Digital Archive;Resource Descriptions" %}
+{% include feature/nav-menu.html sections="About the Apartheid Heritage(s) Collection;Using the Apartheid Heritage(s) Digital Archive;Resource Descriptions" %}
 
 ## About the *Apartheid Heritage(s)* Collection
 
