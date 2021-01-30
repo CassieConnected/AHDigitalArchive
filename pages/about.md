@@ -6,7 +6,7 @@ permalink: /about.html
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html %}
+{% include feature/objects/banner.jpg %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
